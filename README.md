@@ -28,11 +28,11 @@ GitHub Logo_Maker_SVG_OOP Project: https://github.com/BrandonDell/LogoMaker_SVG_
 If you have any further questions please feel free to email me at bdellcioppia@gmail.com
 
 ## Image
-![DellCioppia]()
+![DellCioppia](./images/workingSvg.png)
 
 ## Video Link
-
+https://drive.google.com/file/d/1Jn2sQL5hkZ2HYKdenhYnGS3TUjeez3qQ/view
 
 ## Credits
 -UCF Coding Bootcamp
--Tutor Chris assisted debuging on Sunday 4/28/24
+-Tutor Chris assisted debuging and help with testing 4/27/24
