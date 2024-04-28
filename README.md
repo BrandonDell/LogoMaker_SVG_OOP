@@ -15,9 +15,17 @@ N/A
 
 ## Installation 
 Clone the respository to your Github account and open file "index.js". Open your Command Line and type "node index.js" which will prompt the user to answer a series of questions that will generate a new logo file once completed. 
+
+Inquirer: npm install inquire@8.2.4
+[Inquirer](https://www.npmjs.com/package/inquirer/v/8.2.4)
+
+Jest: npm install jest
+[Jest](https://www.npmjs.com/package/jest)
             
 ## Test 
-We use NPM Jets to testing 
+We use NPM Jest for testing 
+
+Command Line: npm run test
     
 ## Questions
     
